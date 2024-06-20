@@ -1,4 +1,10 @@
-## Hi there 👋
+## Bem-vindos ao meu perfil!
+
+Me chamo Matheus!
+
+* Estou me desenvolvendo no curso Alura
+* Estudo sobre a linguagem JavaScript
+* Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 <!--
 **xmatheusxx/xmatheusxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
